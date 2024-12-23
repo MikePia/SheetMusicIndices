@@ -1,4 +1,4 @@
-Utilities to create csv toc file for use with MobileSheets application
+# Utilitiy for MobileSheets TOC creation
 
 Use the notebook and find this example example
 Example in the notebook
