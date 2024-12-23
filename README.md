@@ -34,7 +34,12 @@ total_pages = get_page_count(pdf_file)
 total_pages
 ```
 
-Create the index
+Create the index for MobileSheets.  This will do all the optional things.
+* tag the files
+* put them all in a new or existing collection
+* sets all the songs as rock and pop
+* sets each song composer
+
 ```
 ms = MobileIndex(
     fname,
