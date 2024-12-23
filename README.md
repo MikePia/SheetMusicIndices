@@ -20,6 +20,7 @@ pdf_file = "/home/mike/Documents/tunes/Beatles/Beatles/The Beatles Complete - Vo
 The abreviation is to differentiate files in you Mobile Sheets library. If you have multiple version of songs for example from Real Book 1 and New RealBook 1, they can lool like this:
 
 "All of Me"  (RB1)
+
 "All of Me"  (NRB1)
 
 
